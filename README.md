@@ -19,5 +19,6 @@ Research on Android Compose
 - LazyHorizontalGrid
 - BottomNavigation
 - Slot-based layouts
+<img width="187" alt="image" src="https://user-images.githubusercontent.com/20867541/175222289-66d9bd70-2d54-405f-816e-50fe851f7bc8.png">
 
 WIP
